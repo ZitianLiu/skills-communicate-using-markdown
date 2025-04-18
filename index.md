@@ -3,3 +3,6 @@
 ### H3 header
 
 tried some markdown headers.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+add an imgae.
